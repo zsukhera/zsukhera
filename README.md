@@ -1,10 +1,8 @@
 
 ## Salam, I'm Zain 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%7C+Machine+Learning+Enthusiast;Teaching+Assistant;Software+Developer;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Computer+Science+Senior;AI+%7C+ML+%7C+DL+%7C+CV" />
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -89,9 +87,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=zsukhera&theme=tokyonight"/>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=zsukhera&theme=tokyonight)
 </p>
 
 ---
