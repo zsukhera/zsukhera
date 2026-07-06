@@ -1,5 +1,5 @@
 
-## Salam, I'm Zain 
+## Zain Sukhera 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Computer+Science+Senior;AI+%7C+ML+%7C+DL+%7C+CV" />
 </p>
@@ -8,9 +8,6 @@
 ## 🚀 About Me
 
 🎓 Computer Science Senior at **FAST NUCES Islamabad**
-
-💻 Passionate about Artificial Intelligence, Machine Learning, and Data Science.
-
 
 🌱 Currently learning
 - Machine Learning
@@ -21,7 +18,6 @@
 📸 Photography enthusiast and media director with experience leading creative teams.
 
 ---
----
 
 ## 🛠 Tech Stack
 
@@ -30,7 +26,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ---
@@ -54,19 +49,12 @@
 
 ---
 
----
-
 ## 📚 Academic Interests
 
 - Artificial Intelligence
 - Machine Learning
 - Data Mining
-- Algorithms
-- Data Structures
-- Computer Networks
-- Theory of Languages
-- Statistics
-- Discrete Mathematics
+- Algorithms & Data Structures
 
 ---
 
