@@ -70,28 +70,6 @@
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zsukhera&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsukhera&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=zsukhera&theme=tokyonight)
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
