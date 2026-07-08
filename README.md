@@ -15,7 +15,7 @@
 - System Design
 - Game Development using Unity
   
-📸 Photography enthusiast and media director with experience leading creative teams.
+📸 I also have a photography and film hobby
 
 ---
 
