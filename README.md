@@ -1,12 +1,18 @@
+# Zain Sukhera
 
-## Zain Sukhera 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Computer+Science+Senior;AI+%7C+ML+%7C+DL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Computer+Science+Senior;AI+%7C+ML+%7C+DL" alt="Typing SVG" />
 </p>
+
 ---
+
 ## 📈 Contribution Graph
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zsukhera&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zsukhera&theme=tokyo-night" alt="Zain's GitHub Contribution Graph" />
 </p>
+
 ---
-> *"Uss Rizq se mout achi, jiss rizq se aati ho parwaaz main kotahi" - Iqbal*
+
+> *"Uss Rizq se maut achi, jiss rizq se aati ho parwaaz mein kotahi."*  
+> — Allama Iqbal
