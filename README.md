@@ -6,13 +6,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zsukhera&theme=tokyo-night" alt="Zain's GitHub Contribution Graph" />
-</p>
-
----
 
 > *"Uss Rizq se maut achi, jiss rizq se aati ho parwaaz mein kotahi."*  
 > — Allama Iqbal
