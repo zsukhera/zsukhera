@@ -1,4 +1,4 @@
-# Zain Ul Arifeen Sukhera
+# Zain Sukhera
 
 Computer Science Senior at FAST-NUCES Islamabad, interested in how machine
 learning and high performance computing. 
